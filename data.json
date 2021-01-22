@@ -1,0 +1,82 @@
+{
+  "01/06/2021": {
+    "read pin": 154,
+    "see pin": 7,
+    "check pin": 67
+  },
+  "01/07/2021": {
+    "read pin": 66,
+    "see pin": 3,
+    "check pin": 38
+  },
+  "01/08/2021": {
+    "read pin": 56,
+    "see pin": 3,
+    "check pin": 17
+  },
+  "01/09/2021": {
+    "read pin": 42,
+    "see pin": 0,
+    "check pin": 10
+  },
+  "01/10/2021": {
+    "read pin": 59,
+    "see pin": 0,
+    "check pin": 15
+  },
+  "01/11/2021": {
+    "read pin": 82,
+    "see pin": 3,
+    "check pin": 28
+  },
+  "01/12/2021": {
+    "read pin": 55,
+    "see pin": 1,
+    "check pin": 23
+  },
+  "01/13/2021": {
+    "read pin": 42,
+    "see pin": 3,
+    "check pin": 30
+  },
+  "01/14/2021": {
+    "read pin": 79,
+    "see pin": 0,
+    "check pin": 23
+  },
+  "01/15/2021": {
+    "read pin": 75,
+    "see pin": 2,
+    "check pin": 20
+  },
+  "01/16/2021": {
+    "read pin": 70,
+    "see pin": 1,
+    "check pin": 13
+  },
+  "01/17/2021": {
+    "read pin": 37,
+    "see pin": 1,
+    "check pin": 21
+  },
+  "01/18/2021": {
+    "read pin": 67,
+    "see pin": 2,
+    "check pin": 33
+  },
+  "01/19/2021": {
+    "read pin": 45,
+    "see pin": 0,
+    "check pin": 26
+  },
+  "01/20/2021": {
+    "read pin": 65,
+    "see pin": 5,
+    "check pin": 33
+  },
+  "01/21/2021": {
+    "read pin": 62,
+    "see pin": 6,
+    "check pin": 30
+  }
+}
