@@ -26,7 +26,7 @@ g = sns.catplot(
     ci="cd",
     alpha=0.8,
     height=6,
-    palette="crest",
+    palette="rocket",
 )
 g.despine(left=True)
 g.set_axis_labels("Days", "Results found (amount)")
