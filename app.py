@@ -31,5 +31,9 @@ g = sns.catplot(
 g.despine(left=True)
 g.set_axis_labels("Days", "Results found (amount)")
 g.legend.set_title("Queries")
+g.set_xticklabels(rotation=45)
+
+g.fig.set_figwidth(16)
+g.fig.set_figheight(8)
 
 plt.show()
