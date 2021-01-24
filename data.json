@@ -83,5 +83,10 @@
     "read pin": 70,
     "see pin": 1,
     "check pin": 18
+  },
+  "01/23/2021": {
+    "read pin": 62,
+    "see pin": 4,
+    "check pin": 8
   }
 }
